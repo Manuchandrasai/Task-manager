@@ -12,7 +12,9 @@ A simple task management application built with ReactJS. It allows users to add,
 
 
 - Add new tasks with a title, description, and due date.
-![image](https://github.com/user-attachments/assets/7ff57db6-9414-49c0-b1e9-9c36b9b766be)
+  
+![image](https://github.com/user-attachments/assets/83a8785d-ac81-428c-abf8-48cd146f2af2)
+
 
 - pie chart and bar chart.
 - Mark tasks as completed.
@@ -20,8 +22,7 @@ A simple task management application built with ReactJS. It allows users to add,
 - Filter tasks by All, Completed, or Pending.
 - Persists tasks using local storage.
 
-![image](https://github.com/user-attachments/assets/8a6ca96e-006f-4df4-9542-a7d0b499eb1a)
-
+![image](https://github.com/user-attachments/assets/e5ccd87d-dfe5-4eed-860b-e5ea4e489c26)
 
 
 
